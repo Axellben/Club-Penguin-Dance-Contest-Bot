@@ -1,0 +1,6 @@
+Empty Arrow : (166, 166, 166)
+
+Left Arrow: (56, 497)
+Top Arrow: (157, 485)
+Bottom Arrow: (229, 491)
+Right Arrow: (335, 503)
